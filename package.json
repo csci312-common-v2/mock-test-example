@@ -1,0 +1,14 @@
+{
+  "name": "test-example",
+  "version": "1.0.0",
+  "description": "A simple test illustrating how we can use mocking to create seams",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Christopher Andrews <candrews@middlebury.edu>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
