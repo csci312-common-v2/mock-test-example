@@ -7,6 +7,7 @@
     "test": "jest"
   },
   "author": "Christopher Andrews <candrews@middlebury.edu>",
+  "contributors": ["Michael Linderman <mlinderman@middlebury.edu>"],
   "license": "Apache-2.0",
   "devDependencies": {
     "jest": "^29.0.3"
